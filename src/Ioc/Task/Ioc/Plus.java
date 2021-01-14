@@ -12,4 +12,8 @@ public class Plus {
     public int summ() {
         return a + b;
     }
+
+    public int getA() {
+        return a;
+    }
 }
